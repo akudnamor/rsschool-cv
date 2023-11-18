@@ -1,0 +1,73 @@
+.rotate-text {
+    transform: rotate(-90deg);  
+    font-family:sans-serif;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 47px;
+}
+
+.role {
+    font-size: 27px;
+}
+
+.section {
+    flex: 1;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.container-head {
+    display: flex;
+    height: 100%;
+    background-color: #666666;
+}
+
+.info-block-heading {
+        text-align: center;
+        color: #333333;
+        font-family:courier;
+}
+
+.info-block-paragraph {
+        color: #666666;
+        font-family:sans-serif;
+}
+
+.info-block-head-list {
+    font-family:sans-serif;
+    font-weight: bold;
+}
+
+.avatar {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin-left: 30%;
+}
+
+.area {
+    margin-left: 10px;
+}      
+
+body {
+    margin-left: 280px;
+    margin-right: 280px;
+    margin-top: 0;
+    background-color: rgb(49, 49, 49);
+}
