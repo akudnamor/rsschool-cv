@@ -1,1 +1,1 @@
-https://akudnamor.github.io/rsschool-cv/cv
+https://akudnamor.github.io/rsschool-cv
